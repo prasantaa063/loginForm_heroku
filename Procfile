@@ -1,0 +1,1 @@
+web: java -jar target/loginForm-heroku-1.0.0-BUILD-SNAPSHOT.war
